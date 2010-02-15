@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* Posterous_LibraryAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1040, 574}}";
+			sepNavSelRange = "{426, 0}";
+			sepNavVisRange = "{0, 659}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Posterous_LibraryAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 624}}";
+			sepNavSelRange = "{885, 0}";
+			sepNavVisRange = "{197, 311}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A99DD9941129F6BD00C461BA /* Posterous-Library */;
+		activeTarget = 8D1107260486CEB800E47090 /* Posterous-Library */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Posterous-Library */,
+		);
+		codeSenseManager = A99DD9A51129F6D200C461BA /* Code sense */;
+		executables = (
+			A99DD9941129F6BD00C461BA /* Posterous-Library */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					862,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287962813;
+			PBXWorkspaceStateSaveDate = 287962813;
+		};
+		perUserProjectItems = {
+			A99DD9EA1129FEBE00C461BA /* PBXTextBookmark */ = A99DD9EA1129FEBE00C461BA /* PBXTextBookmark */;
+			A99DD9EB1129FEBE00C461BA /* PBXTextBookmark */ = A99DD9EB1129FEBE00C461BA /* PBXTextBookmark */;
+			A99DD9EC1129FEBE00C461BA /* PBXTextBookmark */ = A99DD9EC1129FEBE00C461BA /* PBXTextBookmark */;
+			A99DD9ED1129FEBE00C461BA /* PBXTextBookmark */ = A99DD9ED1129FEBE00C461BA /* PBXTextBookmark */;
+			A99DD9EE1129FEBE00C461BA /* PBXTextBookmark */ = A99DD9EE1129FEBE00C461BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = A99DD9A41129F6D200C461BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Posterous-Library */ = {
+		activeExec = 0;
+		executables = (
+			A99DD9941129F6BD00C461BA /* Posterous-Library */,
+		);
+	};
+	A99DD9941129F6BD00C461BA /* Posterous-Library */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Posterous-Library";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A99DD9A11129F6D200C461BA /* posterous.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1040, 650}}";
+			sepNavSelRange = "{157, 0}";
+			sepNavVisRange = "{34, 1231}";
+		};
+	};
+	A99DD9A21129F6D200C461BA /* posterous.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1040, 3432}}";
+			sepNavSelRange = "{1273, 0}";
+			sepNavVisRange = "{1420, 630}";
+		};
+	};
+	A99DD9A41129F6D200C461BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A99DD9A51129F6D200C461BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A99DD9EA1129FEBE00C461BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Posterous_LibraryAppDelegate.h */;
+		name = "Posterous_LibraryAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 426;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	A99DD9EB1129FEBE00C461BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A99DD9A11129F6D200C461BA /* posterous.h */;
+		name = "posterous.h: 10";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 34;
+	};
+	A99DD9EC1129FEBE00C461BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A99DD9A21129F6D200C461BA /* posterous.m */;
+		name = "posterous.m: 71";
+		rLen = 0;
+		rLoc = 1273;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 1420;
+	};
+	A99DD9ED1129FEBE00C461BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Posterous_LibraryAppDelegate.m */;
+		name = "Posterous_LibraryAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 60;
+	};
+	A99DD9EE1129FEBE00C461BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Posterous_LibraryAppDelegate.m */;
+		name = "Posterous_LibraryAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 60;
+	};
+}
